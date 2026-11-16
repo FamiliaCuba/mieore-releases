@@ -1,0 +1,13 @@
+{
+  "annunci": [
+    {
+      "id": "gpscam-prova-1",
+      "titolo": "Prova GPS Cam",
+      "testo": "La fotocamera con timbro di data, ora e posizione per i lavori in campo. Gratis per i colleghi.",
+      "bottone": "Scarica GPS Cam",
+      "url": "https://github.com/FamiliaCuba/gpscam-releases/releases/latest",
+      "dal": "2026-11-20",
+      "al": "2026-12-31"
+    }
+  ]
+}
