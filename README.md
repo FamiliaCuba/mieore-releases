@@ -27,3 +27,18 @@ Impostazioni → Altre app utili con il pulsante "Scarica" (apre la pagina, MieO
 | `url` | pagina di download: `https://github.com/FamiliaCuba/...` o `https://fmcuba.com/...` |
 
 Se la lista manca o non si scarica, l'app usa quella interna (GPS Cam).
+
+
+## avvisi.json (MieOre 1.1.2 e successive)
+
+Dalla 1.1.2 l'app legge **avvisi.json** (stesso formato di annunci.json, più questi campi). `annunci.json` resta per le versioni vecchie.
+
+| Campo | Significato |
+|---|---|
+| `canale` (nell'avviso) | `"github"` = solo chi ha l'APK di GitHub, `"play"` = solo chi l'ha dal Play Store. Senza = tutti |
+| `stile` | `"urgente"` = avviso rosso, senza la X per chiuderlo |
+| `scadenza` | `AAAA-MM-GG`: mostra "Mancano N giorni" |
+| `fine_github` | `AAAA-MM-GG`: dal giorno DOPO, la versione GitHub mostra una finestra bloccante (con Backup e WhatsApp) che rimanda al Play Store. Toglilo per annullare |
+| `fine_testo` | testo di quella finestra |
+| `app` | lista "Altre app utili" (come prima) |
+| il pulsante | può aprire anche `https://wa.me/...` |

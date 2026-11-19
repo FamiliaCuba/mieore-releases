@@ -1,0 +1,23 @@
+{
+  "annunci": [
+    {
+      "id": "playstore-2026-11",
+      "canale": "github",
+      "stile": "urgente",
+      "scadenza": "2026-11-30",
+      "titolo": "MieOre passa al Play Store",
+      "testo": "Dal 30 novembre questa versione di MieOre smetterà di funzionare.\nPer continuare a usarla mandami su WhatsApp la Gmail che usi nel Play Store di questo telefono: ti invio il link per installarla dal Play Store. I tuoi dati restano dove sono.",
+      "bottone": "Mandami la tua Gmail",
+      "url": "https://wa.me/17542806256?text=Ciao,%20questa%20%C3%A8%20la%20mia%20Gmail%20del%20Play%20Store%20per%20MieOre%3A%20"
+    }
+  ],
+  "fine_github": "2026-11-30",
+  "fine_testo": "Questa versione di MieOre non è più attiva. Per continuare installa MieOre dal Play Store con il link che ti ho mandato (serve la Gmail autorizzata). Se non ce l'hai, chiedimelo su WhatsApp.",
+  "app": [
+    {
+      "nome": "GPS Cam",
+      "testo": "Foto con timbro di data, ora e posizione per i lavori in campo.",
+      "url": "https://github.com/FamiliaCuba/gpscam-releases/releases/latest"
+    }
+  ]
+}
