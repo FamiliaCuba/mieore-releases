@@ -13,11 +13,5 @@
   ],
   "fine_github": "2026-11-26",
   "fine_testo": "Questa versione di MieOre non è più attiva.",
-  "app": [
-    {
-      "nome": "GPS Cam",
-      "testo": "Foto con timbro di data, ora e posizione per i lavori in campo.",
-      "url": "https://github.com/FamiliaCuba/gpscam-releases/releases/latest"
-    }
-  ]
+  "app": []
 }
