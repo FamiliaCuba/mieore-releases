@@ -9,6 +9,16 @@
       "testo": "Dal 27 novembre questa versione di MieOre smetterà di funzionare.\nPer continuare a usarla mandami su WhatsApp nome e cognome e la Gmail che usi nel Play Store di questo telefono: ti invio il link per installarla dal Play Store. I tuoi dati restano dove sono.",
       "bottone": "Mandami la tua Gmail",
       "url": "https://wa.me/17542806256?text=Ciao,%20questa%20%C3%A8%20la%20mia%20Gmail%20del%20Play%20Store%20per%20MieOre%3A%20"
+    },
+    {
+      "id": "play-update-2026-11",
+      "canale": "play",
+      "stile": "urgente",
+      "scadenza": "2026-12-15",
+      "titolo": "Aggiornamento fermo?",
+      "testo": "Se all'apertura la schermata di aggiornamento resta ferma, chiudila con Indietro e tocca qui sotto: nel Play Store premi Aggiorna, poi riapri MieOre. I tuoi dati restano dove sono.",
+      "bottone": "Aggiorna dal Play Store",
+      "url": "https://play.google.com/store/apps/details?id=com.fmcuba.mieore"
     }
   ],
   "fine_github": "2026-11-26",
